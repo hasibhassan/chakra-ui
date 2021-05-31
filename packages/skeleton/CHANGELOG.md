@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.15
+
+### Patch Changes
+
+- Updated dependencies
+  [[`31ec6466c`](https://github.com/chakra-ui/chakra-ui/commit/31ec6466c2ddc7fffb8e8dfa0f7f241f189f96eb)]:
+  - @chakra-ui/media-query@1.1.0
+
 ## 1.1.14
 
 ### Patch Changes

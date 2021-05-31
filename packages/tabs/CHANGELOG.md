@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.5.2
+
+### Patch Changes
+
+- [`8acd3c11a`](https://github.com/chakra-ui/chakra-ui/commit/8acd3c11a80271b0dca4b7a8922c59b8969d5401)
+  [#4102](https://github.com/chakra-ui/chakra-ui/pull/4102) Thanks
+  [@cschroeter](https://github.com/cschroeter)! - fix(tabs): render tab
+  indicator at the correct pos
+
 ## 1.5.1
 
 ### Patch Changes

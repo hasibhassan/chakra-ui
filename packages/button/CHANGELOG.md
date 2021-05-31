@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- [`7e3d3ff35`](https://github.com/chakra-ui/chakra-ui/commit/7e3d3ff356b9f2e875790cd7a96ddfce83034737)
+  [#3904](https://github.com/chakra-ui/chakra-ui/pull/3904) Thanks
+  [@antoniel](https://github.com/antoniel)! - Add className prop to button load
+  spinner
+
 ## 1.3.2
 
 ### Patch Changes
